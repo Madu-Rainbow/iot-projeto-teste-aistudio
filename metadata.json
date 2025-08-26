@@ -1,0 +1,5 @@
+{
+  "name": "IoT Environment Monitor",
+  "description": "A sleek, real-time dashboard to monitor temperature and humidity data from an IoT sensor. It provides a clean and modern interface for visualizing environmental data.",
+  "requestFramePermissions": []
+}
